@@ -39,9 +39,6 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
-      - image: images/logo-5.svg
-        image_alt: DatoCMS logo
-        image_align: center
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
